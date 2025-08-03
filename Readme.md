@@ -1,5 +1,6 @@
 ## Krishna
-<img src="./asset/img/krishna.jpg" class="logo" width="120"/>
+<img src="https://github.com/RanjitM007/Krishna/blob/master/src/asset/img/krishna.jpg?raw=true" class="logo" width="120"/>
+
 
 
 
