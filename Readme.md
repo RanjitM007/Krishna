@@ -50,5 +50,4 @@ src/
     └── test_commands.py
 ```
 
-Feel free to ask if you want me to generate sample code templates for any of these folders or files!
 
