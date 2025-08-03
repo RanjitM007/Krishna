@@ -1,3 +1,2 @@
 krishna/
-*.pyc
-*.pyo
+./audio/__pycache__/
