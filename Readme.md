@@ -11,7 +11,7 @@ src/
 ├── config.py              # Configuration file (API keys, settings)
 │
 ├── audio/                 # Voice input/output related code
-│   ├── speech_recognition.py
+│   ├── Speech_reco.py
 │   ├── text_to_speech.py
 │   ├── language_processing.py
 │   └── voiceprint_recognition.py
